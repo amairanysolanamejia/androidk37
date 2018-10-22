@@ -33,7 +33,7 @@ Las preguntas extra tratan de las tecnologias que más usan los desarrolladores 
 | 3    | Herramientas de desarrollo             |                                                              |              |                                                              |
 | 4    | MVC                                    |                                                              |              |                                                              |
 | 5    | Estructura de una aplicación           |                                                              |              |                                                              |
-| 6    | [GUI](src/6_GUI/gui.md)                |                                                              |              | [spotify](./src/)                                            |
+| 6    | [GUI](src/6_GUI/gui.md)                |                                                              |              | [spotify](https://github.com/Androidkcourse/t02_spotify)     |
 | 6.I  | FrameLayout                            |                                                              |              |                                                              |
 | 6.II | LinearLayout                           |                                                              |              |                                                              |
 |      | Introducción a Kotlin                  |                                                              |              |                                                              |
