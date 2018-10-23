@@ -56,6 +56,25 @@ Las preguntas extra tratan de las tecnologias que más usan los desarrolladores 
 | 19   | Push notifications                     |                                                              |              |                                                              |
 | 20   | Integración con Google Maps y Facebook |                                                              |              |                                                              |
 
+## Control
+
+|        | Nombre                          | Puntos extra | Asistencia | Tarea 1 | Tarea 2 | Tarea 3 | Tarea 4 | Tarea 5 | Tarea 6 | Tarea 7 | Tarea 8 | Tarea 9 | Tarea 10 | Proyecto | C. final |
+| ------ | ------------------------------- | ------------ | ---------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | -------- | -------- | -------- |
+| **2**  | Cabello Aguilar Héctor Eduido   |              | +          |         |         |         |         |         |         |         |         |         |          |          |          |
+| **3**  | Casillas Muñoz Diego Armando    |              | +          |         |         |         |         |         |         |         |         |         |          |          |          |
+| **7**  | González Policarpo Josué        |              | +          |         |         |         |         |         |         |         |         |         |          |          |          |
+| **8**  | Montiel Martínez Luis Javier    |              | +          |         |         |         |         |         |         |         |         |         |          |          |          |
+| **9**  | Flores García Karina            |              | +          |         |         |         |         |         |         |         |         |         |          |          |          |
+| **10** | Martínez Osorio Octavio         |              | +          |         |         |         |         |         |         |         |         |         |          |          |          |
+| **12** | Salinas Olivares José Antonio   |              | +          |         |         |         |         |         |         |         |         |         |          |          |          |
+| **13** | Serrano Sanson Jorge Alejandro  |              | +          |         |         |         |         |         |         |         |         |         |          |          |          |
+| **14** | Solana Mejía Haylee Amairany    |              | +          |         |         |         |         |         |         |         |         |         |          |          |          |
+| **15** | Vásquez Cancino Mario Alberto   |              | +          |         |         |         |         |         |         |         |         |         |          |          |          |
+| **17** | Martínez Cázares Luis Enrique   |              | +          |         |         |         |         |         |         |         |         |         |          |          |          |
+| **18** | Martínez Crue Analley           |              | +          |         |         |         |         |         |         |         |         |         |          |          |          |
+| **19** | Sanchez Olvera Christian        |              | +          |         |         |         |         |         |         |         |         |         |          |          |          |
+| **21** | Meneses Rodriguez Paola Montana |              | +          |         |         |         |         |         |         |         |         |         |          |          |          |
+
 ## Dudas, comentarios y sugerencias
 
 Cualquier duda o comentario, envíamela por correo a rodrigofranciscopablo@gmail.com
