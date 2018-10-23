@@ -289,3 +289,4 @@ https://openwebinars.net/blog/diferencias-entre-px-dp-y-sp-en-android/
 https://stackoverflow.com/questions/17382586/where-can-i-find-some-good-examples-of-android-ui
 
 http://www.hermosaprogramacion.com/2015/08/tutorial-layouts-en-android/
+
