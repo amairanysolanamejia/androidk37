@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="48dp"  >
+
+    <TextView
+        android:id="@+id/tv_prebeFace"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:text="Prebe Face"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    <EditText
+        android:id="@+id/et_nombre"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:hint="Introduce tu nombre"
+        android:layout_weight="1"/>
+    <EditText
+        android:id="@+id/conttr"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:hint="Introduce tu contraseña"
+        android:layout_weight="1"
+        android:inputType="textPassword" />
+    <Button
+        android:id="@+id/bt_entrar"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:text="Entrar"
+        android:layout_weight="1"
+        android:layout_gravity="center" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:text="¿Olvidaste tu contraseña?"
+        android:layout_weight="1"
+        android:layout_gravity="center"
+        android:layout_margin="20dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@color/azulitoLink"
+        />
+
+</LinearLayout>
