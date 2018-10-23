@@ -25,36 +25,36 @@ Las preguntas extra tratan de las tecnologias que más usan los desarrolladores 
 
 ## Temario
 
-|      | Teoría                                 | Presentacion(es)                                             | Ejercicio(s) | Tarea(s)                                                     |
-| ---- | -------------------------------------- | ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ |
-| 0    |                                        | [Presentación curso prebecarios Gen. 37](https://speakerdeck.com/rodrigofrancisco/curso-androidk-g37) |              |                                                              |
-| 1    | Introducción                           |                                                              |              | [holamundo](https://github.com/Androidkcourse/t01_helloworld) |
-| 2    | Arquitectura del OS                    |                                                              |              |                                                              |
-| 3    | Herramientas de desarrollo             |                                                              |              |                                                              |
-| 4    | MVC                                    |                                                              |              |                                                              |
-| 5    | Estructura de una aplicación           |                                                              |              |                                                              |
-| 6    | [GUI](src/6_GUI/gui.md)                |                                                              |              | [spotify](https://github.com/Androidkcourse/t02_spotify)     |
-| 6.I  | FrameLayout                            |                                                              |              |                                                              |
-| 6.II | LinearLayout                           |                                                              |              |                                                              |
-|      | Introducción a Kotlin                  |                                                              |              |                                                              |
-| 7    | Activities                             |                                                              |              |                                                              |
-| 8    | Intents                                |                                                              |              |                                                              |
-| 9    | Alerts                                 |                                                              |              |                                                              |
-| 10   | Menús                                  |                                                              |              |                                                              |
-| 11   | Recursos de diseño                     |                                                              |              |                                                              |
-| 12   | Listviews                              |                                                              |              |                                                              |
-| 13   | Persistencia de datos                  |                                                              |              |                                                              |
-| 14   | Multimedia                             |                                                              |              |                                                              |
-| 15   | Sensores                               |                                                              |              |                                                              |
-| 16   | **Componentes de una aplicación**      |                                                              |              |                                                              |
-| 16.1 | Fragments                              |                                                              |              |                                                              |
-| 16.2 | Services                               |                                                              |              |                                                              |
-| 16.3 | Content Providers                      |                                                              |              |                                                              |
-| 16.4 | Broadcast Receivers                    |                                                              |              |                                                              |
-| 17   | Programación concurrente               |                                                              |              |                                                              |
-| 18   | Consumo de *webservices*               |                                                              |              |                                                              |
-| 19   | Push notifications                     |                                                              |              |                                                              |
-| 20   | Integración con Google Maps y Facebook |                                                              |              |                                                              |
+|      | Teoría                                 | Presentacion(es)                                             | Ejercicio(s) | Tarea(s)                                                     | Recursos                      |
+| ---- | -------------------------------------- | ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ | ----------------------------- |
+| 0    |                                        | [Presentación curso prebecarios Gen. 37](https://speakerdeck.com/rodrigofrancisco/curso-androidk-g37) |              |                                                              |                               |
+| 1    | Introducción                           |                                                              |              | [holamundo](https://github.com/Androidkcourse/t01_helloworld) |                               |
+| 2    | Arquitectura del OS                    |                                                              |              |                                                              |                               |
+| 3    | Herramientas de desarrollo             |                                                              |              |                                                              |                               |
+| 4    | MVC                                    |                                                              |              |                                                              |                               |
+| 5    | Estructura de una aplicación           |                                                              |              |                                                              |                               |
+| 6    | [GUI](src/6_GUI/gui.md)                |                                                              |              | [spotify](https://github.com/Androidkcourse/t02_spotify)     | [images](src/6_GUI/resources) |
+| 6.I  | FrameLayout                            |                                                              |              |                                                              |                               |
+| 6.II | LinearLayout                           |                                                              |              |                                                              |                               |
+|      | Introducción a Kotlin                  |                                                              |              |                                                              |                               |
+| 7    | Activities                             |                                                              |              |                                                              |                               |
+| 8    | Intents                                |                                                              |              |                                                              |                               |
+| 9    | Alerts                                 |                                                              |              |                                                              |                               |
+| 10   | Menús                                  |                                                              |              |                                                              |                               |
+| 11   | Recursos de diseño                     |                                                              |              |                                                              |                               |
+| 12   | Listviews                              |                                                              |              |                                                              |                               |
+| 13   | Persistencia de datos                  |                                                              |              |                                                              |                               |
+| 14   | Multimedia                             |                                                              |              |                                                              |                               |
+| 15   | Sensores                               |                                                              |              |                                                              |                               |
+| 16   | **Componentes de una aplicación**      |                                                              |              |                                                              |                               |
+| 16.1 | Fragments                              |                                                              |              |                                                              |                               |
+| 16.2 | Services                               |                                                              |              |                                                              |                               |
+| 16.3 | Content Providers                      |                                                              |              |                                                              |                               |
+| 16.4 | Broadcast Receivers                    |                                                              |              |                                                              |                               |
+| 17   | Programación concurrente               |                                                              |              |                                                              |                               |
+| 18   | Consumo de *webservices*               |                                                              |              |                                                              |                               |
+| 19   | Push notifications                     |                                                              |              |                                                              |                               |
+| 20   | Integración con Google Maps y Facebook |                                                              |              |                                                              |                               |
 
 ## Control
 
