@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <array name="estados">
-        <item>dejado</item>
-        <item>casado</item>
-        <item>viudo</item>
-        <item>engañada</item>
-    </array>
-</resources>
