@@ -59,21 +59,21 @@ Las preguntas extra tratan de las tecnologias que más usan los desarrolladores 
 
 |        | Nombre                          | Puntos extra | Asistencia | Tarea 1 | Tarea 2 | Tarea 3 | Tarea 4 | Tarea 5 | Tarea 6 | Tarea 7 | Tarea 8 | Tarea 9 | Tarea 10 | Proyecto | C. final |
 | ------ | ------------------------------- | ------------ | ---------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | -------- | -------- | -------- |
-| **2**  | Cabello Aguilar Héctor Eduardo  | +            | +++        |         |         |         |         |         |         |         |         |         |          |          |          |
-| **3**  | Casillas Muñoz Diego Armando    |              | +++        |         |         |         |         |         |         |         |         |         |          |          |          |
-| **7**  | González Policarpo Josué        | +            | +++        |         |         |         |         |         |         |         |         |         |          |          |          |
-| **8**  | Montiel Martínez Luis Javier    | ++           | +++        |         |         |         |         |         |         |         |         |         |          |          |          |
-| **9**  | Flores García Karina            |              | +++        |         |         |         |         |         |         |         |         |         |          |          |          |
-| **10** | Martínez Osorio Octavio         | +            | +++        |         |         |         |         |         |         |         |         |         |          |          |          |
-| **12** | Salinas Olivares José Antonio   |              | +++        |         |         |         |         |         |         |         |         |         |          |          |          |
-| **13** | Serrano Sanson Jorge Alejandro  | +            | +++        |         |         |         |         |         |         |         |         |         |          |          |          |
-| **14** | Solana Mejía Haylee Amairany    |              | +++        |         |         |         |         |         |         |         |         |         |          |          |          |
-| **15** | Vásquez Cancino Mario Alberto   | ++           | +++        | 10      |         |         |         |         |         |         |         |         |          |          |          |
-| **17** | Martínez Cázares Luis Enrique   |              | ++-        |         |         |         |         |         |         |         |         |         |          |          |          |
-| **18** | Martínez Crue Analley           | +            | +++        |         |         |         |         |         |         |         |         |         |          |          |          |
-| **19** | Sanchez Olvera Christian        |              | +++        |         |         |         |         |         |         |         |         |         |          |          |          |
-| **20** | Rodriguez Dávalos Carolina      |              | -++        |         |         |         |         |         |         |         |         |         |          |          |          |
-| **21** | Meneses Rodriguez Paola Mariana |              | +-+        |         |         |         |         |         |         |         |         |         |          |          |          |
+| **2**  | Cabello Aguilar Héctor Eduardo  | +--          | ++++       |         |         |         |         |         |         |         |         |         |          |          |          |
+| **3**  | Casillas Muñoz Diego Armando    |              | ++++       |         |         |         |         |         |         |         |         |         |          |          |          |
+| **7**  | González Policarpo Josué        | +-           | ++++       |         |         |         |         |         |         |         |         |         |          |          |          |
+| **8**  | Montiel Martínez Luis Javier    | ++           | ++++       |         |         |         |         |         |         |         |         |         |          |          |          |
+| **9**  | Flores García Karina            | -            | ++++       |         |         |         |         |         |         |         |         |         |          |          |          |
+| **10** | Martínez Osorio Octavio         |              | ++++       |         |         |         |         |         |         |         |         |         |          |          |          |
+| **12** | Salinas Olivares José Antonio   | -            | ++++       |         |         |         |         |         |         |         |         |         |          |          |          |
+| **13** | Serrano Sanson Jorge Alejandro  | +--          | ++++       |         |         |         |         |         |         |         |         |         |          |          |          |
+| **14** | Solana Mejía Haylee Amairany    | --           | ++++       |         |         |         |         |         |         |         |         |         |          |          |          |
+| **15** | Vásquez Cancino Mario Alberto   | ++           | ++++       | 10      |         |         |         |         |         |         |         |         |          |          |          |
+| **17** | Martínez Cázares Luis Enrique   | --           | ++-+       |         |         |         |         |         |         |         |         |         |          |          |          |
+| **18** | Martínez Crue Analley           | +++          | ++++       |         |         |         |         |         |         |         |         |         |          |          |          |
+| **19** | Sanchez Olvera Christian        | -            | ++++       |         |         |         |         |         |         |         |         |         |          |          |          |
+| **20** | Rodriguez Dávalos Carolina      | --           | +-++       |         |         |         |         |         |         |         |         |         |          |          |          |
+| **21** | Meneses Rodriguez Paola Mariana | -            | +-++       |         |         |         |         |         |         |         |         |         |          |          |          |
 
 ## Dudas, comentarios y sugerencias
 

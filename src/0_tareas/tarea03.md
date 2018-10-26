@@ -29,7 +29,7 @@
 4. ¿En GNU/Linux, cómo creo diez archivos con la siguiente nomenclatura “tareax.md”, en donde x=1,2,3,...,10?
 5. ¿Qué es speakerdeck?
 6. ¿Qué hace y para que sirve git commit -ammend?
-7. ¿Qué es nginx
+7. ¿Qué es nginx?
 
 ## Tarea (código)
 
