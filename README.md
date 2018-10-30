@@ -79,13 +79,13 @@ Las preguntas extra tratan de las tecnologias que más usan los desarrolladores 
 
 ## Equipos
 
-| Equipo | Integrantes |
-| ------ | ----------- |
-| 1      |             |
-| 2      |             |
-| 3      |             |
-| 4      |             |
-| 5      |             |
+| Equipo | Integrantes    |
+| ------ | -------------- |
+| 1      | Prebes 3,7 y 14|
+| 2      |                |
+| 3      |                |
+| 4      |                |
+| 5      |                |
 
 
 
