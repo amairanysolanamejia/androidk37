@@ -81,11 +81,11 @@ Las preguntas extra tratan de las tecnologias que más usan los desarrolladores 
 
 | Equipo | Integrantes                                                 |
 | ------ | ------------------------------------------------------------|
-| 1      | #18 Mario Vásquez  #12 Karina Flores #18 Anallely Martinez  |
+| 1      | #15 Mario Vásquez  #9 Karina Flores #18 Anallely Martinez  |
 | 2      |  Prebes 3,7 y 14                                                           |
-| 3      |                                                             |
-| 4      |                                                             |
-| 5      |                                                             |
+| 3      |  Cabello,Carolina, Javier                                                           |
+| 4      |  Tony, Jorge, octavio                                                           |
+| 5      |  Christian, Enrique, Paola                                                           |
 
 ## Dudas, comentarios y sugerencias
 
