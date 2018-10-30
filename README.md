@@ -79,13 +79,14 @@ Las preguntas extra tratan de las tecnologias que más usan los desarrolladores 
 
 ## Equipos
 
-| Equipo | Integrantes |
-| ------ | ----------- |
-| 1      |             |
-| 2      |             |
-| 3      |             |
-| 4      |             |
-| 5      |             |
+| Equipo | Integrantes                                                 |
+| ------ | ------------------------------------------------------------|
+| 1      | #18 Mario Vásquez  #12 Karina Flores #18 Anallely Martinez  |
+|----------------------------------------------------------------------|
+| 2      |                                                             |
+| 3      |                                                             |
+| 4      |                                                             |
+| 5      |                                                             |
 
 
 
