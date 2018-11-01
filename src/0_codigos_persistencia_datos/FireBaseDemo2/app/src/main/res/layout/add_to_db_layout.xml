@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@+id/add_to_db_layout"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AddToDB"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <EditText
+        android:id="@+id/et_add_new_sport"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:textAlignment="center"
+        android:layout_marginTop="20dp"
+        android:hint="Enter your favorite sport"/>
+
+
+
+    <Button
+        android:id="@+id/button_new_sport"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add a Sport"
+        />
+
+
+</LinearLayout>
