@@ -95,10 +95,12 @@ Las preguntas extra tratan de las tecnologias que más usan los desarrolladores 
 
 ## Equipos
 
+**SI SE DETECTA PLAGIO, ESTÁN REPROBADOS**
+
 | Equipo | Integrantes                                                  | Sum  | Proyecto asignado |
 | ------ | ------------------------------------------------------------ | ---- | ----------------- |
-| 1      | Karina Flores (9), Mario Vásquez (15), Anallely Martinez(18) | 4    |                   |
-| 2      | Casillas Diego (3), González Josué (7), Mejía Amairany (14)  | -2   |                   |
+| 1      | Karina Flores (9), Mario Vásquez (15), Anallely Martinez(18) | 6    |                   |
+| 2      | Casillas Diego (3), González Josué (7), Mejía Amairany (14)  | 2    |                   |
 | 3      | Cabello Héctor (2), Montiel Javier (8), Rodriguez Carolina (20) | -1   |                   |
 | 4      | Martínez Octavio (10), Salinas Antonio (12), Serrano Jorge (13) | -2   |                   |
 | 5      | Martínez Enrique (17), Sanchez Christian (19), Meneses Paola (21) | -5   |                   |
