@@ -69,9 +69,9 @@ Las preguntas extra tratan de las tecnologias que más usan los desarrolladores 
 | [t01_holamundo](https://github.com/Androidkcourse/t01_helloworld) |
 | [t02_spotify_layout](https://github.com/Androidkcourse/t02_spotify) |
 | [t03_calculadora_layout](https://github.com/Androidkcourse/t03_calculadora) |
-| [t04](src/0_tareas/tarea04.md)                               |
-| [t05](src/0_tareas/tarea05.md)                               |
-| t06_persistencia_datos                                       |
+| [t04_calculadora_funcional](src/0_tareas/tarea05.md)         |
+| t05_persistencia_datos                                       |
+| t06_sensores                                                 |
 
 ## Control
 
@@ -93,17 +93,57 @@ Las preguntas extra tratan de las tecnologias que más usan los desarrolladores 
 | **20** | Rodriguez Dávalos Carolina      | [Carolitta](https://github.com/Carolitta)                    | --           | +-++       | 8       | 8       | NP                   | NP                   | NP                                              |         |          |          |
 | **21** | Meneses Rodriguez Paola Mariana | [pmeneses4](https://github.com/pmeneses4)                    | -            | +-++       | NP      | NP      | NP                   | NP                   | NP                                              |         |          |          |
 
+## Proyectos
+
+* [PrebeAgenda](src/0_proyectos/prebeAgenda.md)
+* [PrebeEbook](src/0_proyectos/prebeEbook.md)
+* [PrebeInscripciones](src/0_proyectos/prebeInscripciones.md)
+* [PrebeNetflix](src/0_proyectos/prebeNetflix.md)
+* [PrebeUber](src/0_proyectos/prebeUber.md)
+
+### Fecha y hora de entrega
+
+Para la fecha de entrega deben de elegir dos fechas (y horas) de acuerdo con lo siguiente.
+
+* La primera fecha es para realizar su último commit, después de esa fecha NO se permite ningún commit. SI HACEN UN COMMIT DESPUÉS DE LA FECHA DE ENTREGA QUEDAN REPROBADOS.
+* La segunda fecha es para que me presenten el proyecto y los interrogue brevemente sobre el código de su aplicación.
+
+Las fechas que ustedes eligan me las deben mandar por mensaje (cualquier medio esta bien).
+
+En caso de ser correo debe tener el siguiente formato.
+
+```
+Asunto: ENTREGA DE PROYECTO ANDROIDK37
+CUERPO DEL MENSAJE:
+	Núm de equipo
+	Nombre del proyecto
+	Núm_prebe Nombre (empezando por apellido)
+	
+	fecha y hora de cuando será su último commit permitido
+	fecha y hora de cuando me presentan el proyecto de manera personal
+```
+
+Si no es correo entonces solo envien el mensaje respetando la escructura que se piden en el cuerpo del mensaje.
+
 ## Equipos
+
+NO DEN ANDROID POR MUERTO, HAGAN SU PROYECTO  Y NO HAGAN CASO DE QUIENES LES DICEN QUE LOS ÚLTIMOS CURSOS NO SON IMPORTANTES. TODOS LOS CURSOS SON IMPORTANTES PORQUE CADA UNO DE LOS INSTRUCTORES LES HA DEDICADO UN POCO DE SU TIEMPO PARA DARLES CLASE, PREPARLES MATERIAL Y DISEÑAR UNA FORMA DE EVALUARLOS. ADEMÁS, USTEDES HICIERON EL COMPROMISO MORAL DE TOMAR TODOS LOS CURSOS QUE LE PROTECO LES OFRECE.
+
+El proyecto de android tiene algunas cosas que no vimos pero confio en que ya tienen la suficiente experiencia como para poder investigar lo que necesitan para sacar a flote su proyecto.
+
+Confio en ustedes. Suerte.	
+
+Yo si leo su código así que no se copien.
 
 **SI SE DETECTA PLAGIO, ESTÁN REPROBADOS**
 
-| Equipo | Integrantes                                                  | Sum  | Proyecto asignado |
-| ------ | ------------------------------------------------------------ | ---- | ----------------- |
-| 1      | Karina Flores (9), Mario Vásquez (15), Anallely Martinez(18) | 6    |                   |
-| 2      | Casillas Diego (3), González Josué (7), Mejía Amairany (14)  | 2    |                   |
-| 3      | Cabello Héctor (2), Montiel Javier (8), Rodriguez Carolina (20) | -1   |                   |
-| 4      | Martínez Octavio (10), Salinas Antonio (12), Serrano Jorge (13) | -2   |                   |
-| 5      | Martínez Enrique (17), Sanchez Christian (19), Meneses Paola (21) | -5   |                   |
+| Equipo | Integrantes                                                  | suma de puntos extra | Proyecto asignado |
+| ------ | ------------------------------------------------------------ | -------------------- | ----------------- |
+| 1      | Karina Flores (9), Mario Vásquez (15), Anallely Martinez(18) | 6                    |                   |
+| 2      | Casillas Diego (3), González Josué (7), Mejía Amairany (14)  | 2                    |                   |
+| 3      | Cabello Héctor (2), Montiel Javier (8), Rodriguez Carolina (20) | -1                   |                   |
+| 4      | Martínez Octavio (10), Salinas Antonio (12), Serrano Jorge (13) | -2                   |                   |
+| 5      | Martínez Enrique (17), Sanchez Christian (19), Meneses Paola (21) | -5                   |                   |
 
 ## Dudas, comentarios y sugerencias
 
